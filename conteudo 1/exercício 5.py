@@ -18,3 +18,4 @@ while continuar == 'S':
     print(math.trunc(ordem_b))
     print(f'Demorou {contador} anos para a população A se igualar a população B ')
     continuar = str(input('você deseja importar outros valores? se sim digite "S", se não digite "N": ')).strip().upper()
+e
